@@ -1,0 +1,2 @@
+<?php echo get_the_time('d-M-Y');?>
+// m for  echo  in number 
